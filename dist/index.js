@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("worked"),console.log(function(o){let e=0;for(const o of[1,2])e+=o;return e}())})();
